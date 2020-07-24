@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 ![oeeen's github stats](https://github-readme-stats.vercel.app/api?username=oeeen&show_icons=true)
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foeeen)
+
 <!--
 **oeeen/oeeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
